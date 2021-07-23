@@ -1,2 +1,2 @@
 # STEM
-Essential e-textbooks for learning in STEM fields
+Essentials for learning in STEM fields
